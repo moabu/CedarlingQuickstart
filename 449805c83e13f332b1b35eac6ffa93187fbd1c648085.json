@@ -4,13 +4,7 @@
         "449805c83e13f332b1b35eac6ffa93187fbd1c648085": {
             "name": "CedarShield",
             "description": "",
-            "policies": {
-                "76acfe86fb09731682f92c4fbf7d2e066813ce639404": {
-                    "description": "allow_supreme_ruler",
-                    "creation_date": "2025-06-04T14:41:49.809437",
-                    "policy_content": "QGlkKCJhbGxvd19zdXByZW1lX3J1bGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiU3VwcmVtZVJ1bGVyIiwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTsK"
-                }
-            },
+            "policies": {},
             "trusted_issuers": {
                 "ba49b559f93fc7c80b3729d47edd7c37d034803ac93c": {
                     "name": "AmusingIDP",
