@@ -4,7 +4,13 @@
         "449805c83e13f332b1b35eac6ffa93187fbd1c648085": {
             "name": "CedarShield",
             "description": "",
-            "policies": {},
+            "policies": {
+                "0bb298482efff36a591685a70ab98af816488de32457": {
+                    "description": "k8s-admin-full-access",
+                    "creation_date": "2025-09-03T12:29:34.302206",
+                    "policy_content": "QGlkKCJrOHMtYWRtaW4tZnVsbC1hY2Nlc3MiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBrOHM6OlVzZXIsCiAgYWN0aW9uLAogIHJlc291cmNlCikKOw=="
+                }
+            },
             "trusted_issuers": {
                 "ba49b559f93fc7c80b3729d47edd7c37d034803ac93c": {
                     "name": "AmusingIDP",
