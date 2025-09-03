@@ -2,7 +2,7 @@
     "cedar_version": "4.4.0",
     "policy_stores": {
         "449805c83e13f332b1b35eac6ffa93187fbd1c648085": {
-            "name": "tarpDemo",
+            "name": "CedarShield",
             "description": "",
             "policies": {
                 "76acfe86fb09731682f92c4fbf7d2e066813ce639404": {
