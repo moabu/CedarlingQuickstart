@@ -9,6 +9,11 @@
                     "description": "k8s-admin-full-access",
                     "creation_date": "2025-09-03T12:29:34.302206",
                     "policy_content": "QGlkKCJrOHMtYWRtaW4tZnVsbC1hY2Nlc3MiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBrOHM6OlVzZXIsCiAgYWN0aW9uLAogIHJlc291cmNlCikKOw=="
+                },
+                "9db8acb2c0a82db803e929446d2616606bd14803f1e4": {
+                    "description": "allow-monitoring-bots-to-scrape-metrics",
+                    "creation_date": "2025-09-03T12:57:29.945323",
+                    "policy_content": "QGlkKCJhbGxvdy1tb25pdG9yaW5nLWJvdHMtdG8tc2NyYXBlLW1ldHJpY3MiKQpwZXJtaXQoCiAgICBwcmluY2lwYWwgaW4gazhzOjpHcm91cDo6Im1vbml0b3JpbmctYm90cyIsCiAgICBhY3Rpb24gPT0gazhzOjpBY3Rpb246OiJnZXQiLAogICAgcmVzb3VyY2UKKQp3aGVuIHsKICAgIHJlc291cmNlIGlzIGs4czo6Tm9uUmVzb3VyY2VVUkwgJiYKICAgIHJlc291cmNlLnBhdGggbGlrZSAiL21ldHJpY3MvKiIKfTs="
                 }
             },
             "trusted_issuers": {
