@@ -1,0 +1,10 @@
+@id("allow-monitoring-bots-to-scrape-metrics")
+permit(
+    principal in k8s::Group::"monitoring-bots",
+    action == k8s::Action::"get",
+    resource
+)
+when {
+    resource is k8s::NonResourceURL &&
+    resource.path like "/metrics/*"
+};
